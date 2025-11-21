@@ -1,9 +1,9 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.4) (preloaded format=xelatex 2025.10.31)  20 NOV 2025 20:30
+This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.4) (preloaded format=xelatex 2025.10.31)  21 NOV 2025 12:31
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**./diagram.tex
-(diagram.tex
+**./Daily-Battery-Observation.tex
+(Daily-Battery-Observation.tex
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-08-13>
 
@@ -405,107 +405,79 @@ File: tikzlibrarytopaths.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 )))
 \sa@box=\box64
 )
-(C:\Users\dowus\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
-z/libraries\tikzlibraryshapes.geometric.code.tex
-File: tikzlibraryshapes.geometric.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-
-(C:\Users\dowus\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/shapes\
-pgflibraryshapes.geometric.code.tex
-File: pgflibraryshapes.geometric.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-))
-(C:\Users\dowus\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
-z/libraries\tikzlibrarypositioning.code.tex
-File: tikzlibrarypositioning.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+(C:\Users\dowus\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibr
+aryarrows.meta.code.tex
+File: pgflibraryarrows.meta.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfarrowinset=\dimen257
+\pgfarrowlength=\dimen258
+\pgfarrowwidth=\dimen259
+\pgfarrowlinewidth=\dimen260
 )
 (C:\Users\dowus\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
 z/libraries\tikzlibrarycalc.code.tex
 File: tikzlibrarycalc.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 )
 (C:\Users\dowus\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
-z/libraries\tikzlibraryfit.code.tex
-File: tikzlibraryfit.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+z/libraries\tikzlibrarydecorations.pathreplacing.code.tex
+(C:\Users\dowus\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibrarydecorations.code.tex
+(C:\Users\dowus\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodule
+decorations.code.tex
+\pgfdecoratedcompleteddistance=\dimen261
+\pgfdecoratedremainingdistance=\dimen262
+\pgfdecoratedinputsegmentcompleteddistance=\dimen263
+\pgfdecoratedinputsegmentremainingdistance=\dimen264
+\pgf@decorate@distancetomove=\dimen265
+\pgf@decorate@repeatstate=\count304
+\pgfdecorationsegmentamplitude=\dimen266
+\pgfdecorationsegmentlength=\dimen267
 )
-(C:\Users\dowus\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\fontawesom
-e5.sty
-(C:\Users\dowus\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
-Package: expl3 2025-08-13 L3 programming layer (loader) 
-
+\tikz@lib@dec@box=\box65
+)
+(C:\Users\dowus\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/decorat
+ions\pgflibrarydecorations.pathreplacing.code.tex))
 (C:\Users\dowus\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-xet
 ex.def
 File: l3backend-xetex.def 2025-06-09 L3 backend support: XeTeX
-\g__graphics_track_int=\count304
-\g__pdfannot_backend_int=\count305
-\g__pdfannot_backend_link_int=\count306
-))
-Package: fontawesome5 2022/05/02 v5.15.4 Font Awesome 5
+\g__graphics_track_int=\count305
+\g__pdfannot_backend_int=\count306
+\g__pdfannot_backend_link_int=\count307
+) (Daily-Battery-Observation.aux)
+\openout1 = `Daily-Battery-Observation.aux'.
 
-(C:\Users\dowus\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/l3keys2e\l3k
-eys2e.sty
-Package: l3keys2e 2024-08-16 LaTeX2e option processing using LaTeX3 keys
-)
-(C:\Users\dowus\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xpars
-e.sty
-Package: xparse 2024-08-16 L3 Experimental document command parser
-)
-(C:\Users\dowus\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\fontawesom
-e5-utex-helper.sty
-Package: fontawesome5-utex-helper 2022/05/02 v5.15.4 uTeX helper for fontawesom
-e5
-LaTeX Font Info:    Trying to load font information for TU+fontawesomefree on i
-nput line 69.
-
-(C:\Users\dowus\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\tufontawes
-omefree.fd)
-LaTeX Font Info:    Trying to load font information for TU+fontawesomebrands on
- input line 70.
-
-(C:\Users\dowus\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\tufontawes
-omebrands.fd)))
-\boxwidth=\skip51
-\boxheight=\skip52
-\headerwidth=\skip53
- (diagram.aux)
-\openout1 = `diagram.aux'.
-
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 73.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 73.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 101.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
 
 
 [1
 
-] (diagram.aux)
+] (Daily-Battery-Observation.aux)
  ***********
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-08-13>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 14532 strings out of 403248
- 291248 string characters out of 5460838
- 695806 words of memory out of 5000000
- 42749 multiletter control sequences out of 15000+600000
- 627818 words of font info for 53 fonts, out of 8000000 for 9000
+ 12972 strings out of 403248
+ 277035 string characters out of 5460838
+ 701167 words of memory out of 5000000
+ 41227 multiletter control sequences out of 15000+600000
+ 626849 words of font info for 43 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 117i,9n,121p,457b,796s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 117i,5n,121p,480b,951s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on diagram.pdf (1 page).
+Output written on Daily-Battery-Observation.pdf (1 page).
